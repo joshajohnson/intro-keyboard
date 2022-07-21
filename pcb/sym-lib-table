@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "sea-picro")(type "KiCad")(uri "${KIPRJMOD}/../footprints/sea-picro-footprints/sea-picro.kicad_sym")(options "")(descr ""))
+)

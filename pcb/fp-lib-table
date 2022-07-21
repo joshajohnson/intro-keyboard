@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "sea-picro")(type "KiCad")(uri "${KIPRJMOD}/../footprints/sea-picro-footprints/sea-picro")(options "")(descr ""))
+  (lib (name "intro-footprints")(type "KiCad")(uri "${KIPRJMOD}/../footprints/intro-footprints")(options "")(descr ""))
+)
